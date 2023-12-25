@@ -1,7 +1,8 @@
 # DessertProject
 Welcome to DessertApp, the iOS application that lets users explore and discover their favorite desserts along with detailed recipes. This app is built using the latest iOS 16, providing a seamless and delightful experience for all dessert enthusiasts.
 
-Features
+**Features**
+
 1. Dessert Search
 Utilize the powerful search bar to easily find your favorite desserts.
 The app offers a vast database of desserts, making it simple to discover new treats.
@@ -19,16 +20,21 @@ To get started with DessertApp, follow these simple steps:
 
 Clone the repository to your local machine:
 
-bash
-Copy code
+**Quick start**
 
-```git clone https://github.com/your-username/DessertApp.git```
+```git clone git@github.com:KesarwaniPreeti/DessertProject.git```
 
 Open the project in Xcode or your preferred iOS development environment.
 
 Build and run the app on your iOS device or simulator.
 
 Explore and enjoy the world of desserts right at your fingertips!
+
+**Demo**
+
+https://github.com/KesarwaniPreeti/DessertProject/assets/137003441/5e278be1-a8ae-4d34-a545-4185bf67456f
+
+
 
 Dependencies
 DessertApp relies on the following third-party library:
